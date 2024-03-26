@@ -15,10 +15,7 @@ The script performs the following tasks:
 
 1. **Python and PyDub:**
    - Python: Make sure you have Python installed on your system. You can download it from [here](https://www.python.org/downloads/).
-   - PyDub: A Python library for audio manipulation. Install it via pip:
-     ```
-     pip install pydub
-     ```
+   - PyDub: A Python library for audio manipulation. Install it via pip: ``pip install pydub``
 
 2. **FFmpeg:** 
    - FFmpeg is required for audio conversion. You can download FFmpeg from [here](https://ffmpeg.org/download.html).
